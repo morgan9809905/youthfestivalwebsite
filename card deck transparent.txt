@@ -1,0 +1,25 @@
+<div class="card-deck transparent">
+            <div class="card">
+              <img src="festival example.jpg" class="card-img-top" alt="Example of a festival.">
+              <div class="card-body">
+                <h5 class="card-title">KeepIt100 Youth Festival!</h5>
+                <p>Lorem Ipsum goes here.</p>
+                <a href="festival.html"><p>Click here to find out more about the festival</p></a>
+              </div>
+            </div>
+            <div class="card">
+              <img src="sponsor.jfif" class="card-img-top" alt="Stormzy">
+              <div class="card-body">
+                <h5 class="card-title">Look at Our Sponsors!</h5>
+                <p class="card-text">Click the link below to find out about our amazing awards!</p>
+                <a href="awards.html"><p>Awards Link</p></a>
+              </div>
+            </div>
+            <div class="card">
+              <img src="sponsor.jpg" class="card-img-top" alt="Partners">
+              <div class="card-body">
+                <h5 class="card-title">Thank you to our Partners!</h5>
+                <p class="card-text">We would like to thank everyone that has helped us!</p>
+                <a href="partners.html"><p>Partners Link</p></a>
+              </div>
+            </div>
